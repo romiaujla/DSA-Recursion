@@ -9,3 +9,10 @@ function fibonacci(num){
 
   return fibonacci(num-1) + fibonacci(num-2);
 }
+
+
+
+console.log(fibonacci(0));
+console.log(fibonacci(1));
+console.log(fibonacci(2));
+console.log(fibonacci(10));
